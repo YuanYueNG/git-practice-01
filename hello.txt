@@ -20,3 +20,5 @@ hello ricecake! hello world
 
 -- qq.com 03
 
+测试使用 SSH 免密登录协议 push 文件是否成功
+
